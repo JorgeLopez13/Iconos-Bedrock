@@ -8,8 +8,8 @@
 |             Boton RB             |     X-Box    |          |  U+E005 |            ![](./images/xbox-rb.png)           |
 |             Boton LB             |     X-Box    |          |  U+E006 |            ![](./images/xbox-lt.png)           |
 |             Boton RT             |     X-Box    |          |  U+E007 |            ![](./images/xbox-rt.png)           |
-|           Select Button          |     X-Box    |          |  U+E008 |          ![](./images/xbox-select.png)         |
-|           Start Button           |     X-Box    |          |  U+E009 |          ![](./images/xbox-start.png)          |
+|    Boton de Seleccionar          |     X-Box    |          |  U+E008 |          ![](./images/xbox-select.png)         |
+|        Boton de Inicio           |     X-Box    |          |  U+E009 |          ![](./images/xbox-start.png)          |
 |         Left Stick Button        |     X-Box    |          |  U+E00A |            ![](./images/xbox-ls.png)           |
 |        Right Stick Button        |     X-Box    |          |  U+E00B |            ![](./images/xbox-rs.png)           |
 |          D-Pad Up Button         |     X-Box    |          |  U+E00C |           ![](./images/xbox-d-up.png)          |
